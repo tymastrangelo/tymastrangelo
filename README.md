@@ -6,7 +6,7 @@ I'm a sophomore 🎓 Computer Science student at Elon University with minors in 
 
 ### 🧠 Currently Building
 
-- **📱 Elon Events App** — a full-stack mobile platform for students to discover and RSVP to campus events. Built with **Next.js 15**, **Supabase**, **PostgreSQL**, **Tailwind**, and **React Native**.
+- 📱 [**Elon Events App**](https://github.com/tymastrangelo/elon-events-app) — a full-stack mobile platform for students to discover and RSVP to campus events. Built with **Next.js 15**, **Supabase**, **PostgreSQL**, **Tailwind**, and **React Native**.
 - 🎶 [**Chords of Hope**](https://tymastrangelo.github.io/chords-of-hope/) — a beginner-friendly website that teaches music theory and guitar basics through interactive lessons and clean, accessible design.
 - 🚗 [**Buffer Bros Mobile Detailing**](https://bufferbros.org) — my LLC offering premium car detailing with automated quote flows, a custom CRM, and fully digital infrastructure.
 - 🌐 [**tymastrangelo.com**](https://tymastrangelo.com) — my personal site + portfolio, built from scratch with dynamic Tailwind components and Amazon affiliate integrations.
