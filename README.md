@@ -1,23 +1,30 @@
-## Hey, I’m Tyler Mastrangelo 👋
+# Hey, I’m Tyler Mastrangelo 👋
 
-I'm a sophomore 🎓 Computer Science student at Elon University with minors in **Cybersecurity** and **Psychology**, on track to graduate early. I build tools, automate businesses, and launch creative digital projects — all while running my own company and creating content online.
+I'm a Computer Science student with a passion for building impactful digital solutions. I specialize in full-stack development and business automation, turning complex problems into clean, efficient, and user-friendly applications like the [Elon Events App](https://github.com/tymastrangelo/elon-events-app)—a mobile platform for students.
 
----
+Beyond the code, I'm an entrepreneur running my own detailing business and a content creator sharing my journey online. I'm always looking for new challenges and opportunities to learn.
 
-### 🧠 Currently Building
-
-- 📱 [**Elon Events App**](https://github.com/tymastrangelo/elon-events-app) — a full-stack mobile platform for students to discover and RSVP to campus events. Built with **Next.js 15**, **Supabase**, **PostgreSQL**, **Tailwind**, and **React Native**.
-- 🎶 [**Chords of Hope**](https://tymastrangelo.github.io/chords-of-hope/) — a beginner-friendly website that teaches music theory and guitar basics through interactive lessons and clean, accessible design.
-- 🚗 [**Buffer Bros Mobile Detailing**](https://bufferbros.org) — my LLC offering premium car detailing with automated quote flows, a custom CRM, and fully digital infrastructure.
-- 🌐 [**tymastrangelo.com**](https://tymastrangelo.com) — my personal site + portfolio, built from scratch with dynamic Tailwind components and Amazon affiliate integrations.
+**Connect with me:**
+- 🌐 **Portfolio:** [tymastrangelo.com](https://tymastrangelo.com)
+- 📧 **Email:** [mastrangelo.tyler@gmail.com](mailto:mastrangelo.tyler@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/tymastrangelo](https://www.linkedin.com/in/tymastrangelo)
 
 ---
 
-### ⚙️ Skills & Tools
+### 🚀 What I'm Building
 
-```txt
-Languages:    Python • Java • JavaScript • HTML/CSS
-Frameworks:   React • React Native • Tailwind CSS • Node.js
-Tools:        Git • Notion API • Slack API • n8n • Supabase • Firebase • AWS
-Tech:         Automation • Web Scraping • OAuth • Postgres • Raspberry Pi • Barcode Scanning
-Design:       Figma • Builder.io • UI/UX Prototyping • Responsive Design
+- 📱 [**Elon Events App**](https://github.com/tymastrangelo/elon-events-app) — A full-stack mobile platform for students to discover and RSVP to campus events. *(React Native, Next.js, Supabase, PostgreSQL, Tailwind)*
+- 🎶 [**Chords of Hope**](https://tymastrangelo.github.io/chords-of-hope/) — An interactive website teaching music theory and guitar basics through clean, accessible design. *(HTML, CSS, JavaScript)*
+- 🚗 [**Buffer Bros Mobile Detailing**](https://bufferbros.org) — My own LLC, powered by a custom-built CRM and automated quote flows to streamline operations. *(Next.js, Supabase, Google Sheets API)*
+- 🌐 [**tymastrangelo.com**](https://tymastrangelo.com) — My personal portfolio, built from scratch with dynamic components and affiliate integrations. *(Next.js, Tailwind CSS)*
+
+---
+
+### 🛠️ My Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `Python` `Java` `JavaScript (ES6+)` `TypeScript` `HTML/CSS` `SQL` |
+| **Frameworks** | `React` `React Native` `Next.js` `Node.js` `Tailwind CSS` |
+| **Databases & BaaS** | `PostgreSQL` `Supabase` `Firebase` `AWS` |
+| **Tools & Tech** | `Git` `n8n (Automation)` `Web Scraping` `REST APIs` `OAuth` `Figma` |
