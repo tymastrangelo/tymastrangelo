@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tyler</h1>
 <h3 align="center">Computer Science student at Elon University building tools, systems, and products.</h3>
 
-- 🔭 I’m currently working on [Quad — a campus events platform that helps students discover what’s happening on campus.](https://github.com/tymastrangelo/quad)
+- 🔭 I’m currently working on [Quad — an events platform that helps students discover what’s happening on their campus.](https://github.com/tymastrangelo/quad)
 
 - 🌱 I’m currently learning **cloud infrastructure, cybersecurity, distributed systems, and product design.**
 
