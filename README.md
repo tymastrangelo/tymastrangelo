@@ -4,7 +4,7 @@ CS + Cybersecurity student at Elon University. I like building things that actua
 
 ## What I'm working on
 
-- **[Quad](https://github.com/tymastrangelo/quad)** — an events platform that helps students discover what's happening on their campus. This is my main project.
+- **[Quad](https://joinquad.app/)** — an events platform that helps students discover what's happening on their campus. This is my main project.
 - **[bufferbros-admin](https://github.com/tymastrangelo/bufferbros-admin)** — the CRM powering [Buffer Bros](https://tymastrangelo.com), my car detailing business. Pricing, scheduling, and customer management all in one.
 
 ## Elsewhere
